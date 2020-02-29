@@ -7,18 +7,16 @@ humandate: "April 01-02, 2020"    # human-readable dates for the workshop (e.g.,
 humantime: "09:00 - 16:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-04-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-04-02        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Amy Hodge", Zac Painter"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Amy Hodge", "Zac Painter"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["anyhodge@stanford.edu", "zwp@stanford.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad:  https://pad.carpentries.org/2020-04-01-ttt-stanford           # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "In-Person @ Stanford University"
-    address: "https://carpentries.zoom.us/j/FIXME"
 
-  - venue: "Hartley Conference Center, Mitchell Earth Sciences Building"
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
+  - venue: "Stanford University, Mitchell Earth Sciences Building"
+    address: "Hartley Conference Center, 397 Panama Mall, Stanford, CA 94305"
+    latlng: "37.4264170549, -122.172654692"
 
 ---
 
