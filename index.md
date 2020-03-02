@@ -14,8 +14,8 @@ etherpad:  https://pad.carpentries.org/2020-04-01-ttt-stanford           # optio
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
 
-  - venue: "Stanford University, Mitchell Earth Sciences Building"
-    address: "Hartley Conference Center, 397 Panama Mall, Stanford, CA 94305"
+  - venue: "Stanford University Instructor Training"
+    address: "Hartley Conference Center, Mitchell Earth Sciences Building, 397 Panama Mall, Stanford, CA 94305"
     latlng: "37.4264170549, -122.172654692"
 
 ---
